@@ -1,0 +1,15 @@
+{
+	"plants": [
+
+		{
+			"name": "Carrot",
+			"botanicalName": "Daucus carota",
+			"category": "V",
+			"sun": "full",
+			"soilType": "sandy",
+			"soilPh": "neutral",
+			"description": ""
+		}
+
+	]
+}

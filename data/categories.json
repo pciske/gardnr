@@ -1,0 +1,7 @@
+{
+	"categories": [
+		{ "fullname": "Vegetable", "shortname": "V" },
+		{ "fullname": "Herb", "shortname": "H" },
+		{ "fullname": "Fruit", "shortname": "F" }
+	]
+}
